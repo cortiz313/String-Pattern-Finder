@@ -1,5 +1,5 @@
 # String-Pattern-Finder
-This java program willa java program that generates a random string of a given length and finds different special patterns in the string using Exception handling.
+This java program generates a random string of a given length and finds different special patterns in the string using Exception handling.
 The program then prints the index of the highest ranking special pattern, based on a hierarchy system, to the user.
 
 The requested length of the random string must be an integer in the legal range of 100 thousand (inclusive) to 1 billion (inclusive),
